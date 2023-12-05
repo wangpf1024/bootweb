@@ -1,4 +1,4 @@
-package com.controller.bootweb.demo;
+package com.controller.bootweb.demo.dsa;
 
 
 import java.util.concurrent.ConcurrentHashMap;
